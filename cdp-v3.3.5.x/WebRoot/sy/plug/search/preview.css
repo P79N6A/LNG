@@ -1,0 +1,35 @@
+#DialogDiv
+{
+    position: absolute;
+    width: 350px;
+    margin-left: -200px;
+    height: 400px;
+    z-index: 100;
+    background-color: #fff;
+    border: 1.5px #E6E6FA solid;
+    padding: 1px;
+}
+
+#DialogDiv .previewContent
+{
+    padding: 10px;
+    border-top:1px solid #E6E6FA;
+    width:330px;
+    margin-top:30px
+}
+
+#moreComOrCate
+{
+    position: absolute;
+    width: 200px;
+    margin-left: -200px;
+    height: 300px;
+    z-index: 100;
+    background-color: #fff;
+    border: 1.5px #E6E6FA solid;
+    padding: 1px;
+    overflow:scroll;
+    overflow-y:auto;
+}
+.rh-open-ahovr {font-size:15px;padding-right:40px;text-decoration:none}
+.rh-open-ahovr:hover {font-size:15px;padding-right:40px;text-decoration:underline}

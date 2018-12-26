@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+<string name="ssoServerUrl">http://172.16.0.114:8080/cas</string>
+<string name="thisServerUrl">http://localhost:8080</string>
+</conf>

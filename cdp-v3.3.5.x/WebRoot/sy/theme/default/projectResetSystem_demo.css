@@ -1,0 +1,11 @@
+/* -------------项目工程级覆盖系统的样式设定文件---------------*/
+/* @group 覆盖系统背景，列表区外层背景，左侧菜单，列表头，卡片头---------------*/
+.pageBody__default {background-color:#e5d3bd;}
+.bodyBack__default {background-color:white;}
+.pageBody__default .ui-state-default {background-color:#d8c1a2;border-bottom:#9B805B 1px solid;border-top:#DDD0BE 1px solid;color:#383B38;}
+.pageBody__default .ui-state-hover,
+.pageBody__default .ui-state-active {background-color:#A26A1E;color:white;border-bottom:1px #6E4814 solid;}
+.pageBody__default .leftMenu-title:hover {background-color:#A26A1E;color:white;}
+.pageBody__default .leftMenu-ulTitleExtend-show {border-top:1px #DDD0BE solid;background-color:#A26A1E;}
+.conHeader .conHeaderTitle__default {background: url("images/common/block-title__default.png") repeat scroll 0 0 transparent;}
+.rhCard-tabs .conHeaderTitle__default {background: url("images/common/block-title__default.png") repeat scroll 0 0 transparent;}
